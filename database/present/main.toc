@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Employee Data Query On SQL Server}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Features}{6}{0}{1}
+\beamer@sectionintoc {2}{Database}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Introduction}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Table}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{RDM}{20}{0}{2}
