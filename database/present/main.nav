@@ -45,8 +45,13 @@
 \headcommand {\beamer@framepages {20}{20}}
 \headcommand {\slideentry {2}{3}{2}{21/21}{RDM}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@partpages {1}{21}}
-\headcommand {\beamer@subsectionpages {20}{21}}
+\headcommand {\sectionentry {3}{Summary}{22}{Summary}{0}}
 \headcommand {\beamer@sectionpages {11}{21}}
-\headcommand {\beamer@documentpages {21}}
-\headcommand {\def \inserttotalframenumber {18}}
+\headcommand {\beamer@subsectionpages {20}{21}}
+\headcommand {\slideentry {3}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@partpages {1}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\beamer@sectionpages {22}{22}}
+\headcommand {\beamer@documentpages {22}}
+\headcommand {\def \inserttotalframenumber {19}}
